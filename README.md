@@ -7,7 +7,7 @@ The test repository now has a new featured branched off the master.
 
 Day | Hours Studying | Subject type | Link | Notes 
 ------------ | ------------- | ------------- | -------------
-1 | 2.5 | Lecture | https://www.youtube.com/watch?v=ecIWPzGEbFc |
-2 | 7.5 | Reading | http://index-of.co.uk/Theory-of-Computation/Charles_Petzold-Annotated_Turing-Wiley(2008).pdf |
-3 | 1   | Learning| https://guides.github.com/activities/hello-world/ |
-5 |5    | Team B  | N/A| Download ubuntu and run powershell script
+1 | 2.5 | Lecture | https://www.youtube.com/watch?v=ecIWPzGEbFc
+2 | 7.5 | Reading | http://index-of.co.uk/Theory-of-Computation/Charles_Petzold-Annotated_Turing-Wiley(2008).pdf
+3 | 1   | Learning| https://guides.github.com/activities/hello-world/
+5 | 6   | Working | No Link
