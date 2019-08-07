@@ -5,9 +5,9 @@ This is a test
 
 The test repository now has a new featured branched off the master.
 
-Day | Hours Studying | Subject type | Link | Notes 
------------- | ------------- | ------------- | -------------
-1 | 2.5 | Lecture | https://www.youtube.com/watch?v=ecIWPzGEbFc
-2 | 7.5 | Reading | http://index-of.co.uk/Theory-of-Computation/Charles_Petzold-Annotated_Turing-Wiley(2008).pdf
-3 | 1   | Learning| https://guides.github.com/activities/hello-world/
-5 | 6   | Working | No Link
+Day | Hours Studying | Subject type | Link | Notes |
+------------ | ------------- | ------------- | ------------- | ---------------
+1 | 1.0 | How to | https://guides.github.com/activities/hello-world/ | GitHUB
+1 | 2.5 | Lecture | https://www.youtube.com/watch?v=ecIWPzGEbFc | 
+1 | 7.5 | Reading | http://index-of.co.uk/Theory-of-Computation/Charles_Petzold-Annotated_Turing-Wiley(2008).pdf |
+2 | 4.0 | Project |  N/A  | team building
