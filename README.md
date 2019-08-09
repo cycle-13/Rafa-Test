@@ -11,4 +11,5 @@ Day | Hours Studying | Subject type | Link | Notes |
 1 | 2.5 | Lecture | https://www.youtube.com/watch?v=ecIWPzGEbFc | 
 1 | 7.5 | Reading | http://index-of.co.uk/Theory-of-Computation/Charles_Petzold-Annotated_Turing-Wiley(2008).pdf |
 2 | 5.0 | Project |  N/A  | team building, Setting up ubuntu, powershell script Sphere
-3 | 7.0  | Hardware |N/A| Quizes,adding bootmark and studying  | 
+3 | 7.0  | Hardware |N/A| Quizes(Ram,The visible PC,Periphirals,Harddrive Tech)adding bootmark and studying  | 
+4 | 8.0|Hardware | N/A| Quizes( Micro Processors, Harddrive technologies)
