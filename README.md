@@ -13,3 +13,4 @@ Day | Hours Studying | Subject type | Link | Notes |
 2 | 5.0 | Project |  N/A  | team building, Setting up ubuntu, powershell script Sphere
 3 | 7.0  | Hardware |N/A| Quizes(Ram,The visible PC,Periphirals,Harddrive Tech)adding bootmark and studying  | 
 4 | 8.0|Hardware | N/A| Quizes( Micro Processors, Harddrive technologies)
+5 | 3  | Hardware| N/A | Quiz ( Power supplies, Ram)
