@@ -14,3 +14,4 @@ Day | Hours Studying | Subject type | Link | Notes |
 3 | 7.0  | Hardware |N/A| Quizes(Ram,The visible PC,Periphirals,Harddrive Tech)adding bootmark and studying  | 
 4 | 8.0|Hardware | N/A| Quizes( Micro Processors, Harddrive technologies)|
 5 | 3  | Hardware| N/A | Quiz ( Power supplies), Assemble and disamble 2 HP SFF Desktops|
+6 | 4 | Hardware | N/A | RAM Quiz and study| 
