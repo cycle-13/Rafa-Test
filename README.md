@@ -15,3 +15,4 @@ Day | Hours Studying | Subject type | Link | Notes |
 4 | 8.0|Hardware | N/A| Quizes( Micro Processors, Harddrive technologies)|
 5 | 3  | Hardware| N/A | Quiz ( Power supplies), Assemble and disamble 2 HP SFF Desktops|
 6 | 4 | Hardware | N/A | RAM Quiz and study| 
+7 | 4 | Lecture | N/A | Cloud computing,security and slides.downloading centos and using hypervisor |
