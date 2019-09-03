@@ -24,3 +24,5 @@ Day | Hours Studying | Subject type | Link | Notes |
 13 | 8.0 | Test taking | N/A | Linux |
 14 | 8.0 |Test Taking | N/A | Linux and Labs |
 15 | 8.0 | Network | N/A | Labs and Networking |
+16 | 8.0 | Linux NetAcad | N/A | Chapter 1&2 |
+17 | 8.0 | Linux | N/A | Chapter 3 and working in the subsystem|
