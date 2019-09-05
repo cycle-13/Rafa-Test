@@ -26,3 +26,6 @@ Day | Hours Studying | Subject type | Link | Notes |
 15 | 8.0 | Network | N/A | Labs and Networking |
 16 | 8.0 | Linux NetAcad | N/A | Chapter 1&2 |
 17 | 8.0 | Linux | N/A | Chapter 3 and working in the subsystem|
+18 | 8.0 | Linux | N/A | Practicing making files |
+19 | 4.0 | Linux | N/A | Making files and linux chapters|
+20 | 8.0 | Lecture | N/A | RegexOne regular expressions |
